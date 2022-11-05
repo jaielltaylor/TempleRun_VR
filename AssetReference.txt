@@ -1,0 +1,11 @@
+Assets Used In Temple Run VR:
+- Shadow of the Deads Font at https://www.dafont.com/shadow-of-the-deads.font
+- Rock/Stone Fall at https://freesound.org/people/bolkmar/sounds/539178/
+- AllSkyFree at Unity Asset Store
+- Cartoon Temple Building at Unity Asset Store
+- Free Boulder Pack at Unity Asset Store
+- Horror Atmospheres and Textures at Unity Asset Store
+- Mummy at Unity Asset Store
+- Oculus Hands at Oculus
+- Photon Fonts at Unity Asset Store
+- ZombieFreeCharacterSounds at Unity Asset Store
